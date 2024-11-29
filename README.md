@@ -6,4 +6,4 @@
 
 ## Report
 
-The yellow-highlighted title **"highlightdashboard"** in the dashboard section represents the most important and comprehensive dashboard created for this project.
+The yellow-highlighted title **"highlight dashboard"** in the dashboard section represents the most important and comprehensive dashboard created for this project.
